@@ -1,6 +1,6 @@
 <template>
     <header class="top">
-        <h1>Purchase Report</h1>
+        <h1>Purchase Report in Vue</h1>
         <p>Split Cost and see who owes what.</p>
     </header>
 </template>
